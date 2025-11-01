@@ -1,4 +1,4 @@
-import com.sun.tools.javac.Main;
+package u1;
 
 import javax.swing.*;
 import java.awt.*;
